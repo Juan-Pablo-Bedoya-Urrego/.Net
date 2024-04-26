@@ -9,7 +9,7 @@
         string palabra = "hola";
         Console.WriteLine($"La palabra {palabra} al reves es: {v.palabraAlReves(palabra)}");
 
-        string palabra2 = "holaalo";
+        string palabra2 = "holaaloh";
 
         if(v.capicua(palabra2)){
             Console.WriteLine("es");
