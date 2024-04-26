@@ -95,6 +95,11 @@ class Vector{
         Console.WriteLine(menor(l));
         Console.WriteLine("Segundo Mayor");
         Console.WriteLine(segundoMayor(l));
+        Console.WriteLine("Figo");
+        int[] f = figonachi(10);
+        foreach(int fa in f){
+            Console.Write("-" + fa);
+        }
     }
 
     public string palabraAlReves(string palabra){
@@ -129,5 +134,15 @@ class Vector{
             }
         }
         return resultado.ToString();
+    }
+
+    int[] figonachi(int n){
+        int[] figo = new int[n];
+        figo[0] = 0;
+        figo[1] = 1;
+        for(int i = 2; i < n; i++){
+            figo[i] = figo[i -1] + figo[i - 2];
+        }
+        return figo;
     }
 }

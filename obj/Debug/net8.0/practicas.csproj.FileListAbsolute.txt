@@ -12,3 +12,4 @@ C:\Users\Juan Pablo\Desktop\Programas\Csharp\practicas\obj\Debug\net8.0\refint\p
 C:\Users\Juan Pablo\Desktop\Programas\Csharp\practicas\obj\Debug\net8.0\practicas.pdb
 C:\Users\Juan Pablo\Desktop\Programas\Csharp\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
 C:\Users\Juan Pablo\Desktop\Programas\Csharp\practicas\obj\Debug\net8.0\ref\practicas.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\practicas\obj\Debug\net8.0\practicas.sourcelink.json

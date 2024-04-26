@@ -7,7 +7,7 @@
         v.vec(vector);
 
         string palabra = "hola";
-        Console.WriteLine($"La palabra {palabra} al reves es: {v.palabraAlReves(palabra)}");
+        Console.WriteLine($"\nLa palabra {palabra} al reves es: {v.palabraAlReves(palabra)}");
 
         string palabra2 = "holaaloh";
 
